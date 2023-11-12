@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <main>
+            <h1>Chris Oscarson</h1>
+            <h2>About Chris</h2>
+            <!-- TODO: Center and style; Add info -->
+            <p>Chris is an aspiring Software Engineer</p>
+            <img src="https://i.imgur.com/v7SryBz.jpg" alt="A recent picture of Chris">
+            <a href="https://linkedin.com/in/chrisoscarson">Chris Oscarson LinkedIn</a>
+        </main>
+    </body>
+</html>    
